@@ -9,11 +9,14 @@ This project is concerned in solving the Scheduling Problem (non-bipartite match
 * input folder contain input smaple files and input file maker programme
 ## Running the Program
 Main function is runScheduling
-input: file name , number of generations(optional), fix rng
-       1 file name is input file absolute/relative path
-       2 number of generations the algorithm will reach
-       3 fix random number generator to generate the same output every time (used during testing)
-output: graphical animation of scheduling + best individual + best fitness + solution matrix
+
+<b>input:</b> file name , number of generations(optional), fix rng
+<ul>
+       <li> file name is input file absolute/relative path
+       <li> number of generations the algorithm will reach
+       <li> fix random number generator to generate the same output every time (used during testing)
+</ul>
+<b>output:</b> graphical animation of scheduling + best individual + best fitness + solution matrix
 
 ## Authors:
 * Marsil Zakour
